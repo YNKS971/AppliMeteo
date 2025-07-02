@@ -1,0 +1,55 @@
+body{
+    background-color:#186297 ;
+}
+
+
+
+/* Le container principal. */
+.LeContainer{
+    border: solid blueviolet;
+    height: 38rem;
+}
+/* Parent de la nav */
+.parentNav{
+   
+}
+
+/* NavBar */
+nav{
+    text-align: center;
+ background-color: #124773;
+ color: white;
+height: 3rem;
+font-size:medium;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+}
+
+/* Parent Infos */
+.parentInfos{
+    border: solid green;
+    height: 10rem;
+}
+/* Infos */
+.infos{
+
+}
+
+/* Container avec les jours et les infos */
+.containerJour{
+    border: solid red;
+    height: 24rem;
+}
+/* lundi et les autres jours... */
+.semaine{
+    display: flex;
+
+    border: solid magenta;
+    height: 3rem;
+}
+
+/* perso Semaine */
+.pSemaine{
+    color: white;
+}
